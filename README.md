@@ -1,4 +1,4 @@
-Hello This is PS Trade,
+Hello This is Essence Laundary,
 
 First, You have to install laravel,
 To install you need to install composer first,
